@@ -1,2 +1,2 @@
-# WebApi Upload File
-ASP.NET Core 7 - Fazendo upload de ficheiros
+# ASP.NET Core 7 - Webapi Storage
+ASP.NET Core 7 - Armazenamento de ficheiros
